@@ -1,0 +1,56 @@
+# AI Product Management Portfolio
+
+> A collection of AI PM projects built to demonstrate product thinking, technical depth, and AI-specific design judgment.
+
+---
+
+## About Me
+
+I am transitioning into AI Product Management, with a background in data analytics and business intelligence. My work sits at the intersection of data, AI features, and the real-world users who depend on them.
+
+These projects are built from genuine problems I have encountered — not hypothetical case studies.
+
+---
+
+## Projects
+
+### 01 · Copilot Readiness Analyzer for Power BI
+**Status:** PRD Complete · Build In Progress
+
+A developer-facing tool that scans Power BI semantic models, scores their Copilot compatibility, and gives analysts a prioritized remediation path. Built to solve a real problem: ~300 legacy reports across a regional organization that Copilot cannot effectively reason over.
+
+**Key PM skills demonstrated:**
+- Enterprise AI product thinking
+- Human-in-the-loop design
+- Phased scoping (audit → auto-remediation)
+- AI-specific risk and trust considerations
+
+[View Project →](./01-powerbi-copilot-readiness/)
+
+---
+
+### 02 · Zebra AI-Inspired Analytics Tool
+**Status:** Coming Soon
+
+An internal analytics tool inspired by Zebra AI — designed to bring natural language querying and AI-assisted insight generation to a regional organization's data estate.
+
+[View Project →](./02-zebra-ai-inspired/)
+
+---
+
+## How I Work
+
+Each project in this portfolio follows the same structure:
+
+1. **Problem Statement** — grounded in a real user pain, not invented
+2. **PRD** — full product requirements document with AI-specific considerations
+3. **Practical Build** — working prototype or technical architecture
+4. **Retrospective** — what I learned, what I would do differently
+
+---
+
+## Contact
+
+Open to AI PM roles, collaborations, and feedback.
+
+Built with clarity, not fluff.
